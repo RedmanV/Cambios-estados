@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    color: white;
+}
+
+h3{
+    color: white;
+}
+
+p{
+    color: white;
+}
+
+.right{
+    margin-left: 100px;
+}
+
+input{
+    border-radius: 5px;
+    height: 40px;
+    border: solid 1px rgb(150, 150, 150);
+    background-color: rgb(204, 202, 202);
+}
+
+.form-control{
+    background-color: rgb(201, 201, 201);
+}
+
+.imgs{
+    background-image: url(../assets/car.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+
+.mt-2{
+    background-color: rgb(228, 222, 222) !important;
+    border-radius: 5px !important;
+    Border: 0px solid;
+    margin: 0 0 30px;
+    width: 70px;
+    height: 30px;
+}
+
+.btnimage{
+    width: 70px;
+    height: 50px;
+    margin: 2px;
+}
